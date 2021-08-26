@@ -1,0 +1,11 @@
+Guia 1 pseint
+1 3 6 8 10 11 12 : 7 ejercicios
+
+Guia 2 pseint
+17-18-19-22-26-29-31-32-34-36-37-40-42 : 13 ejercicios
+
+Guia 3 pseint
+3 4 5 7 11 13 17 18 : 8 Ejercicios
+
+Guia 4 pseint
+1 3 5 7 9 10 13 15 17 18 21 22 : 12 ejercicios
