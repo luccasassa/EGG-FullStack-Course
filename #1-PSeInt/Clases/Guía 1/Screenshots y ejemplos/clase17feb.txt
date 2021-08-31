@@ -1,0 +1,1 @@
+El nueve es el (valor inicial - el valor final ) /valor inicial* 100

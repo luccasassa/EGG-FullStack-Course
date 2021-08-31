@@ -1,0 +1,1 @@
+para saber la dirección, entrar al apartado de plugins en NetBeans 8.2

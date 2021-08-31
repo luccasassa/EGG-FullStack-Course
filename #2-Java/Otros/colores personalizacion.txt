@@ -1,0 +1,6 @@
+[43,43,43] Background plugin Darcula
+
+negro defecto fondo 191919
+fondo pagina 282C34
+keyword defecto FF8432
+keyword pagina C678DD
