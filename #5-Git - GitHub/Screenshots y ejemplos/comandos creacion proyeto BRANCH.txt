@@ -1,0 +1,15 @@
+// clono el repogit clone 
+https://github.com/5tr3L0K/Egg002.git
+// creo mi rama de forma local
+git checkout -b Andres
+// envio mi rama al server
+git push -u origin Andres
+// actualizo mis repos LOCALES
+git pull
+// cambio LOCALMENTE a otra rama
+git checkout Lucagit add .
+git statusgit commit -m "Agrego mi archivo"
+git push -u origin Andres
+git push -u origin main
+git branch -a
+git push origin --delete Main
