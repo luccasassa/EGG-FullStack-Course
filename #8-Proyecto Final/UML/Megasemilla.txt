@@ -1,0 +1,30 @@
+Interfaz - Inicio : 
+--Galeria de imagenes de frutos 
+--Categorias o caracteristicas diferenciales 
+--Vincular productos-entidad
+--Caracteristicas general/especifica
+--Obligatorio el login
+--Api de cobro 
+--Redes sociales - instagram 
+
+<<<---------------------------------------------->>>>>
+El carrito -> Comprobante:
+Caracteristicas : 
+"Mail":
+--Usuario
+--Gasto total
+--Lista de productos comprados  x cantidad -precio
+--Forma de pago utilizada 
+--Info del pedido reservado, horarios de retiro y lugar fisico de la tienda 
+
+<<<---------------------------------------------->>>>>>>>>
+Servicios -> Login : 
+--Crear usuario 
+--Editar usuario
+--Eliminar usuario
+--Frase motivadora
+<<<--------------------------------------------->>>>>
+Servicios -> Carrito: 
+--Agregar producto
+--Eliminar producto
+--Editar 250 gr 500 gr o 1 kg o unidad lo que pinte

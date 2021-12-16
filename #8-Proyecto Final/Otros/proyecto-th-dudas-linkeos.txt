@@ -1,0 +1,30 @@
+CONTROLADOR detalle-producto??????
+
+QUE VA A PASAR CON CADA PRODUCTO? SE LINKEA A "th=detalle producto"?
+
+CONTROLADOR agregar al carrito??????
+
+CONTROLADOR titulo (detalle-producto) e imágenes (pequeñas y grandes)
+
+href="https://goo.gl/maps/FEx3zBDX8e86cyXU8" target="_blank"
+
+https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mendoza.megasemilla@gmail.com
+
+ xmlns:th="http://thymeleaf.org/"
+
+class="efecto-color" th:href="@{/}"
+
+class="efecto-color" th:href="@{crear-cuenta}"
+
+class="efecto-color" th:href="@{iniciar-sesion}"
+
+class="efecto-color" th:href="@{productos}"
+
+class="efecto-color" th:href="@{detalle-producto}"
+
+class="efecto-color" th:hred="@{quienes-somos}"
+
+
+<li> <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mendoza.megasemilla@gmail.com"
+                                                    target="_blank"> <i
+                                                        class="far fa-envelope"></i>mendoza.megasemilla</a> </li>
